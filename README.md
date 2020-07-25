@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--> Hi, I'm Ricky <-
+->Hi, I'm Ricky<-
 
 <!--
 **rickyeckhardt/rickyeckhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
