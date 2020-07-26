@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Ricky and I focus of software engineering in full stack web development and modern game programming. 
 
 <!--
 **rickyeckhardt/rickyeckhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
