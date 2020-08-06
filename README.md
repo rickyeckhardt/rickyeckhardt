@@ -3,7 +3,7 @@
 
 **rickyeckhardt/rickyeckhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub! 
 
 - 🔭 I’m currently working on boilerstack.dev and vet.dev.
 - 🌱 I’m currently learning React.
