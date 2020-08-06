@@ -1,9 +1,6 @@
 ### Hi, I'm Ricky. 
 
-
-**rickyeckhardt/rickyeckhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Welcome to my GitHub! 
+Welcome to my GitHub! I am a passionate front end developer pretending to be a full stack developer who moonlights as a game developer. 
 
 - 🔭 I’m currently working on boilerstack.dev and vet.dev.
 - 🌱 I’m currently learning React.
