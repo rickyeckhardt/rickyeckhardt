@@ -1,6 +1,6 @@
 ### Hi, I'm Ricky. 
 
-Welcome to my GitHub! I am a passionate front end developer pretending to be a full stack developer who moonlights as a game developer. 
+Welcome to my GitHub! I am a passionate developer that loves the web! 
 
 - 🔭 I’m currently working on a project named Taberna.
 - 🌱 I’m currently loving C# and NestJS.
