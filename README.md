@@ -1,14 +1,13 @@
 ### Hi, I'm Ricky. 
 
-Welcome to my GitHub! I am a passionate developer that loves the web! 
-
+Welcome to my GitHub! I'm a builder of startups and fun tech!
  
-- 🏢 Building @cliqket
-- 🔭 Built 0-1 at BookOutdoors, Fitted Retail, & NATO iLab.
-- 🌱 I’m currently loving TypeScript.
-- 👯 I would love to collaborate on fun startups or projects!
-- 🤔 I want to improve my devops skills!
+- 🏢 Building @cliqket & @gocamp
+- 🔭 Built 0-1 at Cliqket, BookOutdoors, Fitted Retail, NATO, and more.
+- 🌱 I’m currently loving shadcn/ui.
+- 👯 I would love to collaborate on fun startups!
+- 🤔 I want to improve my public speaking!
 - 💬 Ask me about anything full stack!
-- 📫 How to reach me: ricky@cliqket.com
+- 📫 How to reach me: ricky.eckhardt@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to yo-yo and rollerblade!
+- ⚡ Fun fact: I love to yo-yo, rollerblade, and play Pokemon Go!
