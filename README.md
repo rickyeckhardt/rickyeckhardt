@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a builder of startups and fun tech!
  
-- 🏢 Building @cliqket & @gocamp
+- 🏢 Building @nerdbeak & @gocamp
 - 🔭 Built 0-1 at Cliqket, BookOutdoors, Fitted Retail, NATO, and more.
 - 🌱 I’m currently loving shadcn/ui.
 - 👯 I would love to collaborate on fun startups!
