@@ -16,7 +16,7 @@ First live vertical: [**Nerdworth**](https://nerdworth.com) – the art slab exc
 
 ### 🛠 What I’m Into
 
-- Currently building with **Next.js 14**, **TypeScript**, **shadcn/ui**, **Prisma**, and **Supabase**
+- Currently building with **Next.js**, **TypeScript**, **shadcn/ui**, **Prisma**, and **Supabase**
 - Deep into **AI-native marketplaces** – vision models, embeddings, and real-time pricing for collectibles
 - Opinionated about clean UX, sane domain models, and infra that can actually survive scale
 
