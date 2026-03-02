@@ -1,35 +1,31 @@
-## 👋 Hi, I’m Ricky
+## Ricky Eckhardt
 
-Startup builder. Marketplace architect. Founder-engineer at **Nerdbeak**, building **Nerdbase** – an AI-powered engine that spins up vertical marketplaces for collectibles in days, not years.
+Founder & CEO @ [Nerdbeak](https://nerdbeak.com). Busy replacing eBay.
 
-First live vertical: [**Nerdworth**](https://nerdworth.com) – the art slab exchange.
+eBay treats a PSA 10 Charizard the same as a used toaster. So we replaced it. 6 live marketplaces for collectors. Every collectible priced. Free. AI-native from day one.
 
----
-
-### 🚀 What I’ve Done
-
-- Built 0→1 at **7 startups**, including **BookOutdoors (acquired by Hipcamp)**, **GoCamp**, **Fitted Retail**, and **NATO iLab**
-- Shipped full platforms solo: booking engines, auctions, drop systems, ML/AI tools, price engines
-- Launched multiple marketplaces across travel, collectibles, and community commerce – I like to move fast and make it real
+The next 1,000 eBays.
 
 ---
 
-### 🛠 What I’m Into
+### What I've Shipped
 
-- Currently building with **Next.js**, **TypeScript**, **shadcn/ui**, **Prisma**, and **Supabase**
-- Deep into **AI-native marketplaces** – vision models, embeddings, and real-time pricing for collectibles
-- Opinionated about clean UX, sane domain models, and infra that can actually survive scale
-
----
-
-### 📬 Get in Touch
-
-- Email: **ricky.eckhardt@gmail.com**
-- Twitter / X: [**@rickyeckhardt**](https://twitter.com/rickyeckhardt)
-- LinkedIn: `linkedin.com/in/rickyeckhardt` (if you want to add it)
+- **Nerdbeak**. The operating system for every collecting community on earth. 6 live products. 300+ commits a day.
+- **BookOutdoors**. Outdoor travel marketplace. Acquired by Hipcamp.
+- **GoCamp**. Van rental marketplace. $4M+ GMV. Cut infra costs 72%.
+- **Fitted Retail**. B2B checkout powering $100M+ GMV for shoe backstock.
+- **NATO iLab**. 5 AI/ML products for NATO operations. Led teams up to 8.
 
 ---
 
-### 🎯 Fun Stuff
+### Stack
 
-Yo-yo addict, inline skater, and collector of all things slabbed, limited, or just weird enough that eBay’s search bar cries a little.
+Next.js. TypeScript. Prisma. Supabase. shadcn/ui. Vision models. Embeddings. Real-time pricing engines.
+
+---
+
+### Get in Touch
+
+- Email: **ricky@nerdbeak.com**
+- X: [**@rickyeckhardt**](https://twitter.com/rickyeckhardt)
+- LinkedIn: [**linkedin.com/in/rickyeckhardt**](https://linkedin.com/in/rickyeckhardt)
